@@ -551,6 +551,11 @@ http://15.troya.info:34000/ch2672/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUW
 http://15.troya.info:34000/ch2861/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtGu_D_u_GHjZGdfU3ada20NuSkJNv_-TemTz9NENxyA6
 #EXTINF:0 tvg-id="CineMan Air Crash" group-title="7. Educational/Образование" tvg-logo="http://troya.one/images/chIcons/2924.png" timeshift="6", CineMan Air Crash
 http://15.troya.info:34000/ch2924/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtCAPVLBpqAUraBX2aNIuDIAMpkhTTK1qFqXhc2Ls8NBi
+
+#EXTINF:0 tvg-id="Clarity4k Вселенная" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/2884.png" timeshift="0", Clarity4k Вселенная
+http://15.troya.info:34000/ch2884/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtAz-_OnPGJgqjXqeohoUwDFgFMo0V5fNdCyLwn4ntQEN
+#EXTINF:0 tvg-id="Clarity4K Космомир" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/1295.png" timeshift="6", Clarity4K Космомир
+http://15.troya.info:34000/ch1295/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtJG5fs--0C9Lwm8L8iDuTdsfS6msSVw2mlSDcjFRaNfc
 #EXTINF:0 tvg-id="Insight UHD" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/512.png" timeshift="0", Insight UHD
 http://15.troya.info:34000/ch512/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtLz2_BNGIdIPJ5ECq7l3eYeu5OnGyTk1o2jgwkpGcmnj
 #EXTINF:0 tvg-id="Кино UHD" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/511.png" timeshift="3", Кино UHD
@@ -735,10 +740,6 @@ http://15.troya.info:34000/ch128/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWm
 http://15.troya.info:34000/ch2503/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtFBIv5V0ZqrR1VONFWrRBYsntpmuoZZzbqH1lGQKcSbt
 #EXTINF:0 tvg-id="Clarity4K Bollywood Music" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/2399.png" timeshift="0", Clarity4K Bollywood Music
 http://15.troya.info:34000/ch2399/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtPpdo7aqLhe72voCPZucm_quntp0uiasICdW4vkAsVJM
-#EXTINF:0 tvg-id="Clarity4K Космомир" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/1295.png" timeshift="6", Clarity4K Космомир
-http://15.troya.info:34000/ch1295/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtJG5fs--0C9Lwm8L8iDuTdsfS6msSVw2mlSDcjFRaNfc
-#EXTINF:0 tvg-id="Clarity4k Вселенная" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/2884.png" timeshift="0", Clarity4k Вселенная
-http://15.troya.info:34000/ch2884/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtAz-_OnPGJgqjXqeohoUwDFgFMo0V5fNdCyLwn4ntQEN
 #EXTINF:0 tvg-id="Clarity4K Avto Blog" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/1427.png" timeshift="3", Clarity4K Avto Blog
 http://15.troya.info:34000/ch1427/mono.m3u8?token=alexandru651.1Rc-tvrc_YhlVApUWmhwtNbp7EQK6XwVYiHjZ7cEanE7aACYrMngnp1Q95BQiKpr
 #EXTINF:0 tvg-id="Clarity4K Travel Blog" group-title="8. UHD" tvg-logo="http://troya.one/images/chIcons/1166.png" timeshift="3", Clarity4K Travel Blog
@@ -3073,3 +3074,4 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 group-title="Humor" tvg-id="6177fd9812fe0c000726f9eb" tvg-name="Just for Laughs", Just for Laughs (1)
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
+
